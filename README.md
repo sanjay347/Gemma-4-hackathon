@@ -1,5 +1,8 @@
 # ClearMoney 💸
 
+[![Gemma 4 App Video](https://img.youtube.com/vi/FaZXaY6Ym6Q/0.jpg)](https://www.youtube.com/watch?v=FaZXaY6Ym6Q)
+
+
 > **Privacy-first personal finance powered by on-device AI.**
 > Fine-tuned Gemma 4 · GGUF · llama.cpp · Unsloth · Zero cloud.
 
